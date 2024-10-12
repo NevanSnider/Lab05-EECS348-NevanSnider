@@ -1,3 +1,7 @@
+//Nevan Snider, KUID 3149896
+//Lab05, Sales Report Lab
+
+
 #include<stdio.h>
 
 #define MAX_LINES 12
